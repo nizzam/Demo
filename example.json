@@ -1,0 +1,76 @@
+{
+	"menu" : [
+		{
+          "status": "OK",
+          "client_name": "QFC",
+          "client_branch": [
+            {
+              "branch_no": "001",
+              "branch_desc": "Cyberjaya",
+              "screen": [
+                {
+                  "screen_no": "1",
+                  "images": [
+                      {
+                        "url": "http://www.queenandfatchef.com/",
+                        "duration": 2
+                      },
+                      {
+                        "url": "http://www.queenandfatchef.com/",
+                        "duration": 2
+                      }
+                  ]
+                },
+                {
+                  "screen_no": "2",
+                  "images": [
+                    {
+                      "url": "http://www.queenandfatchef.com/",
+                      "duration": 2
+                    },
+                    {
+                      "url": "http://www.queenandfatchef.com/",
+                      "duration": 2
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+		},
+        {
+          "status": "OK",
+          "client_name": "Harum Kuini",
+          "client_branch": [
+            {
+              "branch_no": "001",
+              "branch_desc": "KD",
+              "screen": [
+                {
+                  "screen_no": "1",
+                  "images": [
+                    {
+                      "url": "http://www.harumkuini.com/",
+                      "duration": 2
+                    },
+                    {
+                      "url": "http://www.harumkuini.com/",
+                      "duration": 2
+                    }
+                  ]
+                },
+                {
+                  "screen_no": "2",
+                  "images": [
+                    {
+                      "url": "http://www.harumkuini.com/",
+                      "duration": 2
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+	]
+}
