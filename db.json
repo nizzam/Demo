@@ -69,6 +69,43 @@
                   ]
                 }
               ]
+            },
+            {
+              "branch_no": "002",
+              "branch_desc": "Petaling Jaya",
+              "screen": [
+                {
+                  "screen_no": "1",
+                  "images": [
+                    {
+                      "url": "http://www.harumkuini.com/",
+                      "duration": 2
+                    },
+                    {
+                      "url": "http://www.harumkuini.com/",
+                      "duration": 2
+                    }
+                  ]
+                },
+                {
+                  "screen_no": "2",
+                  "images": [
+                    {
+                      "url": "http://www.harumkuini.com/",
+                      "duration": 2
+                    }
+                  ]
+                },
+                {
+                  "screen_no": "3",
+                  "images": [
+                    {
+                      "url": "http://www.harumkuini.com/",
+                      "duration": 2
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
