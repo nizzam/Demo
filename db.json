@@ -9,7 +9,7 @@
               "branch_desc": "Cyberjaya",
               "screen": [
                 {
-                  "screen_no": "1",
+                  "screen_no": "01",
                   "images": [
                       {
                         "url": "http://www.queenandfatchef.com/",
@@ -22,7 +22,7 @@
                   ]
                 },
                 {
-                  "screen_no": "2",
+                  "screen_no": "02",
                   "images": [
                     {
                       "url": "http://www.queenandfatchef.com/",
@@ -47,7 +47,7 @@
               "branch_desc": "KD",
               "screen": [
                 {
-                  "screen_no": "1",
+                  "screen_no": "01",
                   "images": [
                     {
                       "url": "http://www.harumkuini.com/",
@@ -60,7 +60,7 @@
                   ]
                 },
                 {
-                  "screen_no": "2",
+                  "screen_no": "02",
                   "images": [
                     {
                       "url": "http://www.harumkuini.com/",
@@ -75,7 +75,7 @@
               "branch_desc": "Petaling Jaya",
               "screen": [
                 {
-                  "screen_no": "1",
+                  "screen_no": "01",
                   "images": [
                     {
                       "url": "http://www.harumkuini.com/",
@@ -88,7 +88,7 @@
                   ]
                 },
                 {
-                  "screen_no": "2",
+                  "screen_no": "02",
                   "images": [
                     {
                       "url": "http://www.harumkuini.com/",
@@ -97,7 +97,7 @@
                   ]
                 },
                 {
-                  "screen_no": "3",
+                  "screen_no": "03",
                   "images": [
                     {
                       "url": "http://www.harumkuini.com/",
