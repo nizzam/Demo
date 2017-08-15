@@ -10,16 +10,12 @@
               "screen": [
                 {
                   "screen_no": "01",
-                  "images": [
-                      {
-                        "url": "https://static.pexels.com/photos/70497/pexels-photo-70497.jpeg",
-                        "duration": 2
-                      },
-                      {
-                        "url": "http://www.newsweek.pl/g/i.aspx/680/0/newsweek/635956341773852524.jpg",
-                        "duration": 2
-                      }
-                  ]
+                  "images": [],
+		  "videos":[
+		     {
+			 "url": "http://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
+		     }
+		 ]
                 },
                 {
                   "screen_no": "02",
@@ -29,7 +25,7 @@
                       "duration": 2
                     },
                     {
-                      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/1200px-Good_Food_Display_-_NCI_Visuals_Online.jpg",
+                      "url": "http://bestanimations.com/Holidays/Fireworks/fireworks/fireworks-animated-gif-23.gif",
                       "duration": 2
                     }
                   ]
@@ -50,11 +46,11 @@
                   "screen_no": "01",
                   "images": [
                     {
-                      "url": "http://www.harumkuini.com/",
+                      "url": "http://www.newsweek.pl/g/i.aspx/680/0/newsweek/635956341773852524.jpg",
                       "duration": 2
                     },
                     {
-                      "url": "http://www.harumkuini.com/",
+                      "url": "https://static.pexels.com/photos/70497/pexels-photo-70497.jpeg",
                       "duration": 2
                     }
                   ]
