@@ -31,7 +31,8 @@
                       "url": "http://bestanimations.com/Holidays/Fireworks/fireworks/fireworks-animated-gif-23.gif",
                       "duration": 2
                     }
-                  ]
+                  ],
+		  "videos":[]
                 }
               ]
             }
@@ -56,7 +57,8 @@
                       "url": "https://static.pexels.com/photos/70497/pexels-photo-70497.jpeg",
                       "duration": 2
                     }
-                  ]
+                  ],
+		  "videos":[]
                 },
                 {
                   "screen_no": "02",
@@ -65,7 +67,8 @@
                       "url": "http://www.harumkuini.com/",
                       "duration": 2
                     }
-                  ]
+                  ],
+		  "videos":[]
                 }
               ]
             },
@@ -84,7 +87,8 @@
                       "url": "http://www.harumkuini.com/",
                       "duration": 2
                     }
-                  ]
+                  ],
+		  "videos":[]
                 },
                 {
                   "screen_no": "02",
@@ -93,7 +97,8 @@
                       "url": "http://www.harumkuini.com/",
                       "duration": 2
                     }
-                  ]
+                  ],
+		  "videos":[]
                 },
                 {
                   "screen_no": "03",
@@ -102,7 +107,8 @@
                       "url": "http://www.harumkuini.com/",
                       "duration": 2
                     }
-                  ]
+                  ],
+		  "videos":[]
                 }
               ]
             }
