@@ -1,118 +1,106 @@
 {
-	"menu" : [
-		{
-          "status": "OK",
-          "client_name": "QFC",
-          "client_branch": [
-            {
-              "branch_no": "001",
-              "branch_desc": "Cyberjaya",
-              "screen": [
-                {
-                  "screen_no": "01",
-                  "images": [],
-		  "videos":[
-		     {
-			 "url": "http://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
-		     },
-		     {
-			 "url": "http://techslides.com/demos/sample-videos/small.mp4"
-		     }
-		 ]
-                },
-                {
-                  "screen_no": "02",
-                  "images": [
-                    {
-                      "url": "http://www.sffood.net/wp-content/uploads/2016/02/Bacon-Burger-by-Daniel-Carlbom-on-Flickr.jpg",
-                      "duration": 2
-                    },
-                    {
-                      "url": "http://bestanimations.com/Holidays/Fireworks/fireworks/fireworks-animated-gif-23.gif",
-                      "duration": 2
-                    }
-                  ],
-		  "videos":[]
-                }
-              ]
-            }
-          ]
+	"serial_no": [
+		"123456",
+		"654321",
+		"112233"
+	],
+	"menu": [{
+			"status": "OK",
+			"client_name": "QFC",
+			"client_branch": [{
+				"branch_no": "001",
+				"branch_desc": "Cyberjaya",
+				"screen": [{
+						"screen_no": "01",
+						"images": [],
+						"videos": [{
+								"url": "http://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
+							},
+							{
+								"url": "http://techslides.com/demos/sample-videos/small.mp4"
+							}
+						]
+					},
+					{
+						"screen_no": "02",
+						"images": [{
+								"url": "http://www.sffood.net/wp-content/uploads/2016/02/Bacon-Burger-by-Daniel-Carlbom-on-Flickr.jpg",
+								"duration": 2
+							},
+							{
+								"url": "http://bestanimations.com/Holidays/Fireworks/fireworks/fireworks-animated-gif-23.gif",
+								"duration": 2
+							}
+						],
+						"videos": []
+					}
+				]
+			}]
 		},
-        {
-          "status": "OK",
-          "client_name": "Harum Kuini",
-          "client_branch": [
-            {
-              "branch_no": "001",
-              "branch_desc": "KD",
-              "screen": [
-                {
-                  "screen_no": "01",
-                  "images": [
-                    {
-                      "url": "http://www.newsweek.pl/g/i.aspx/680/0/newsweek/635956341773852524.jpg",
-                      "duration": 2
-                    },
-                    {
-                      "url": "https://static.pexels.com/photos/70497/pexels-photo-70497.jpeg",
-                      "duration": 2
-                    }
-                  ],
-		  "videos":[]
-                },
-                {
-                  "screen_no": "02",
-                  "images": [
-                    {
-                      "url": "http://www.harumkuini.com/",
-                      "duration": 2
-                    }
-                  ],
-		  "videos":[]
-                }
-              ]
-            },
-            {
-              "branch_no": "002",
-              "branch_desc": "Petaling Jaya",
-              "screen": [
-                {
-                  "screen_no": "01",
-                  "images": [
-                    {
-                      "url": "http://www.harumkuini.com/",
-                      "duration": 2
-                    },
-                    {
-                      "url": "http://www.harumkuini.com/",
-                      "duration": 2
-                    }
-                  ],
-		  "videos":[]
-                },
-                {
-                  "screen_no": "02",
-                  "images": [
-                    {
-                      "url": "http://www.harumkuini.com/",
-                      "duration": 2
-                    }
-                  ],
-		  "videos":[]
-                },
-                {
-                  "screen_no": "03",
-                  "images": [
-                    {
-                      "url": "http://www.harumkuini.com/",
-                      "duration": 2
-                    }
-                  ],
-		  "videos":[]
-                }
-              ]
-            }
-          ]
-        }
+		{
+			"status": "OK",
+			"client_name": "Harum Kuini",
+			"client_branch": [{
+					"branch_no": "001",
+					"branch_desc": "KD",
+					"screen": [{
+							"screen_no": "01",
+							"images": [{
+									"url": "http://www.newsweek.pl/g/i.aspx/680/0/newsweek/635956341773852524.jpg",
+									"duration": 2
+								},
+								{
+									"url": "https://static.pexels.com/photos/70497/pexels-photo-70497.jpeg",
+									"duration": 2
+								}
+							],
+							"videos": []
+						},
+						{
+							"screen_no": "02",
+							"images": [{
+								"url": "http://www.harumkuini.com/",
+								"duration": 2
+							}],
+							"videos": []
+						}
+					]
+				},
+				{
+					"branch_no": "002",
+					"branch_desc": "Petaling Jaya",
+					"screen": [{
+							"screen_no": "01",
+							"images": [{
+									"url": "http://www.harumkuini.com/",
+									"duration": 2
+								},
+								{
+									"url": "http://www.harumkuini.com/",
+									"duration": 2
+								}
+							],
+							"videos": []
+						},
+						{
+							"screen_no": "02",
+							"images": [{
+								"url": "http://www.harumkuini.com/",
+								"duration": 2
+							}],
+							"videos": []
+						},
+						{
+							"screen_no": "03",
+							"images": [{
+								"url": "http://www.harumkuini.com/",
+								"duration": 2
+							}],
+							"videos": []
+						}
+					]
+				}
+			]
+		}
 	]
 }
