@@ -29,7 +29,7 @@
 						"images": [{
 								"url": "http://www.sffood.net/wp-content/uploads/2016/02/Bacon-Burger-by-Daniel-Carlbom-on-Flickr.jpg",
 								"duration": 2,
-								"rotation": "ROTATE_90"
+								"rotation": "ROTATE_180"
 							},
 							{
 								"url": "http://bestanimations.com/Holidays/Fireworks/fireworks/fireworks-animated-gif-23.gif",
