@@ -12,6 +12,7 @@
 				"branch_no": "001",
 				"branch_desc": "Cyberjaya",
 				"screen": [{
+						"serial_no": "112233",
 						"screen_no": "01",
 						"images": [],
 						"videos": [{
@@ -23,6 +24,7 @@
 						]
 					},
 					{
+						"serial_no": "665544",
 						"screen_no": "02",
 						"images": [{
 								"url": "http://www.sffood.net/wp-content/uploads/2016/02/Bacon-Burger-by-Daniel-Carlbom-on-Flickr.jpg",
@@ -47,6 +49,7 @@
 					"branch_no": "001",
 					"branch_desc": "KD",
 					"screen": [{
+							"serial_no": "665544",
 							"screen_no": "01",
 							"images": [{
 									"url": "http://www.newsweek.pl/g/i.aspx/680/0/newsweek/635956341773852524.jpg",
@@ -62,6 +65,7 @@
 							"videos": []
 						},
 						{
+							"serial_no": "665544",
 							"screen_no": "02",
 							"images": [{
 									"url": "http://www.harumkuini.com/",
@@ -76,6 +80,7 @@
 					"branch_no": "002",
 					"branch_desc": "Petaling Jaya",
 					"screen": [{
+							"serial_no": "665544",
 							"screen_no": "01",
 							"images": [{
 									"url": "http://www.harumkuini.com/",
@@ -91,6 +96,7 @@
 							"videos": []
 						},
 						{
+							"serial_no": "665544",
 							"screen_no": "02",
 							"images": [{
 								"url": "http://www.harumkuini.com/",
@@ -100,6 +106,7 @@
 							"videos": []
 						},
 						{
+							"serial_no": "665544",
 							"screen_no": "03",
 							"images": [{
 								"url": "http://www.harumkuini.com/",
