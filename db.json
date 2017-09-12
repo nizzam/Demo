@@ -28,12 +28,12 @@
 						"screen_no": "02",
 						"images": [{
 								"url": "http://www.sffood.net/wp-content/uploads/2016/02/Bacon-Burger-by-Daniel-Carlbom-on-Flickr.jpg",
-								"duration": 20,
+								"duration": 10,
 								"rotation": "ROTATE_180"
 							},
 							{
 								"url": "http://bestanimations.com/Holidays/Fireworks/fireworks/fireworks-animated-gif-23.gif",
-								"duration": 5,
+								"duration": 2,
 								"rotation": "NO_ROTATE"
 							}
 						],
